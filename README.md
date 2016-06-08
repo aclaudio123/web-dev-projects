@@ -1,3 +1,0 @@
-# web-dev-projects
-
-Coming soon...
