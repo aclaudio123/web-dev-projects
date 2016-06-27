@@ -1,4 +1,5 @@
 # web-dev-projects
 
-In this lesson, we'll continue building our HTML and CSS skills by creating a
-simple restaurant menu website. 
+These projects are pet projects to continue building my HTML and CSS skills.
+
+1. simple restaurant menu website. 
